@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1463142638 source:c:\alanc\c_code\channel\channel3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	"graphics.h"
+
+1463142638 h"
+
+1379303828 c:\alanc\c_code\channel\graphics.h
+
+1463142958 source:/home/alanx/AlanX/AlanC_Ccode/Channel/channel3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<stdbool.h>
+	"graphics.h"
+
+1379303828 /home/alanx/AlanX/AlanC_Ccode/Channel/graphics.h
+
